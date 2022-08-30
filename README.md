@@ -1,10 +1,13 @@
-### Hi 
+### Hi friends, Welcome to my profile and nice to meet you!
 
-
+# My Profile Stats
 ![Irfan Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn&hide=stars&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn)
+# My Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact)
 
+# This week activity
+![Irfan Nada's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eerfunn)
 
 # About me
 - I like anime 💖, mainly Slice of Life and Isekai genre
