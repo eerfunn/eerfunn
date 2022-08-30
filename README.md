@@ -3,7 +3,7 @@
 <!--
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://github-readme-stats.vercel.app/api?username=eerfunn
+[![Irfan Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
