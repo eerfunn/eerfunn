@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 
-[![Irfan Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn&hide=stars&count_private=true&show_icons=true)]
+![Irfan Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn&hide=stars&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn)
+# PS
+```
+I'd prefer using node js, and I my self surprised Laravel Blade is my top stat :3
+```
 <!--
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
