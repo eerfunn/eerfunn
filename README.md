@@ -8,9 +8,9 @@
 
 ### About Me
 - I like anime 💖, mainly Slice of Life and Isekai genres
+- Looking for working with learning opportunities,  I always feel that I needs to learn more. I peek a lot to stackoverflow, youtube tutorials, and others to complete a task and fix an error.
 - Since 2022 I'd prefer using node js, and I'm surprised PHP & Laravel Blade are my top stat :3
 - Studying Information Systems at UPNVJ since 2019
-- Looking for working with learning opportunities,  I always feel that I needs to learn more
 - I learn English mainly from interact with others everyday in social media and game, sorry if I did not use the right grammar
 
 ### Techs
@@ -31,16 +31,16 @@
 
 ### Social Media
 <a href="https://www.linkedin.com/in/irfannadabs/">
-  <img align="center" alt="Irfan's Linked In" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Irfan's Linked In" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/irfannbsin/">
-  <img align="center" alt="Irfan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="center" alt="Irfan's Instagram" width="50px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.twitter.com/irfannadabs">
-  <img align="center" alt="Irfan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Irfan's Twitter" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100078145747771">
-<img align="center" alt="Irfan's Facebook" width="22px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/facebook.png"/></a>
+<img align="center" alt="Irfan's Facebook" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/facebook.png"/></a>
 
 <!--
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
