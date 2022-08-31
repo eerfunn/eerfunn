@@ -18,7 +18,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="center" alt="HTML 5" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/html.svg"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img align="center" alt="CSS 3" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/css.svg"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img align="center" alt="Javascript" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/js.svg"/></a>
-<a href="https://www.php.net/"><img align="center" alt="PHP" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/php.svg"/></a>
+<a href="https://www.php.net/"><img align="center" alt="PHP" width="80px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/php.svg"/></a>
 <a href="https://www.mongodb.com/"><img align="center" alt="Mongo DB" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/mongo.png"/></a>
 <a href="http://expressjs.com/"><img align="center" alt="Express JS" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/express.png"/></a>
 <a href="https://reactjs.org/"><img align="center" alt="React JS" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/react.png"/></a>
