@@ -14,18 +14,20 @@
 - I learn English mainly from interact with others everyday in social media and game, sorry if I did not use the right grammar
 
 ### Techs
-<p><img align="center" alt="HTML 5" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/html5.png"/>
-<img align="center" alt="CSS 3" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/css3.png"/>
-<img align="center" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/js.png"/>
-<img align="center" alt="Mongo DB" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/mongo.png"/>
-<img align="center" alt="Express JS" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/express.png"/>
-<img align="center" alt="React JS" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/react.png"/>
-<img align="center" alt="Node JS" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/nodejs.png"/>
-<img align="center" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/firebase.png"/>
-<img align="center" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/laravel.png"/>
-<img align="center" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/gcp.png"/></p>
-
-
+<p>
+<a href="https://en.wikipedia.org/wiki/HTML"><img align="center" alt="HTML 5" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/html5.png"/></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img align="center" alt="CSS 3" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/css3.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img align="center" alt="Javascript" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/js.png"/></a>
+<a href="https://www.mongodb.com/"><img align="center" alt="Mongo DB" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/mongo.png"/></a>
+<a href="http://expressjs.com/"><img align="center" alt="Express JS" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/express.png"/></a>
+<a href="https://reactjs.org/"><img align="center" alt="React JS" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/react.png"/></a>
+<a href="https://nodejs.org/en/"><img align="center" alt="Node JS" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/nodejs.svg"/></a>
+<a href="https://firebase.google.com/"><img align="center" alt="Firebase" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/firebase.png"/></a>
+<a href="https://laravel.com/"><img align="center" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/laravel.png"/></a>
+<a href="https://cloud.google.com/"><img align="center" alt="Google Cloud" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/gcp.png"/></a>
+<a href="https://unity.com/solutions/game"><img align="center" alt="Google Cloud" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/unity.png"/></a>
+<a href="https://flutter.dev/"><img align="center" alt="Google Cloud" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/flutter.png"/></a>
+</p>
 
 ### Social Media
 <a href="https://www.linkedin.com/in/irfannadabs/">
