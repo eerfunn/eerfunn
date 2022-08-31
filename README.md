@@ -1,4 +1,4 @@
-## Hi friends, Welcome to my profile and nice to meet you!
+## Hi, Welcome to my profile and nice to meet you!
 
 ### My Profile Stats
 ![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn&hide=stars&count_private=true&show_icons=true)
