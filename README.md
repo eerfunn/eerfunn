@@ -27,7 +27,8 @@
 <a href="https://laravel.com/"><img align="center" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/laravel.png"/></a>
 <a href="https://cloud.google.com/"><img align="center" alt="Google Cloud" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/gcp.png"/></a>
 <a href="https://unity.com/solutions/game"><img align="center" alt="Google Cloud" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/unity.png"/></a>
-<a href="https://flutter.dev/"><img align="center" alt="Google Cloud" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/flutter.png"/></a>
+<a href="https://flutter.dev/"><img align="center" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/flutter.png"/></a>
+<a href="https://git-scm.com/"><img align="center" alt="Git Logo" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/git.eps"/></a>
 </p>
 
 ### Social Media
@@ -45,10 +46,12 @@
 &ensp;&ensp;
 <a href="https://www.facebook.com/profile.php?id=100078145747771">
 <img align="center" alt="Irfan's Facebook" width="40px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/facebook.png"/></a>
+
 ### Thanks for your visit, have a good day!
 <!--
 Instagram Logo: By Instagram - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=48863359
 PHP Logo: Colin Viebrock released the PHP logo as Creative Commons Attribution-Share Alike 4.0 International
+Git Logo: Git Logo by Jason Long is licensed under the Creative Commons Attribution 3.0 Unported License.
 -->
 <!--
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
