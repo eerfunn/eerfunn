@@ -13,7 +13,7 @@
 - Looking for working with learning opportunities,  I always feel that I needs to learn more
 - I learn English mainly from interact with others everyday in social media and game, sorry if I did not use the right grammar
 
-### Techn That I Use
+### Techs
 <p><img align="center" alt="HTML 5" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/html5.png"/>
 <img align="center" alt="CSS 3" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/css3.png"/>
 <img align="center" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/js.jpg"/>
@@ -21,8 +21,9 @@
 <img align="center" alt="Express JS" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/express.png"/>
 <img align="center" alt="React JS" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/react.png"/>
 <img align="center" alt="Node JS" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/nodejs.png"/>
-<img align="center" alt="Maria DB" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/mariadb.png"/>
+<img align="center" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/firebase.png"/>
 <img align="center" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/laravel.png"/></p>
+<img align="center" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/gcp.png"/></p>
 
 
 ### Social Media
