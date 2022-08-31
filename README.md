@@ -1,5 +1,4 @@
 ## Hi, Welcome to my profile and nice to meet you!
-
 ### My Profile Stats
 ![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn&hide=stars&count_private=true&show_icons=true)
 
@@ -32,7 +31,7 @@
 <a href="https://flutter.dev/"><img align="center" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/flutter.png"/></a>
 <a href="https://git-scm.com/"><img align="center" alt="Git Logo" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/git.svg"/></a>
 </p>
-
+#### Note: Some Logo May Not Be Visible In Light Mode
 ### Social Media
 <a href="https://www.linkedin.com/in/irfannadabs/">
   <img align="center" alt="Irfan's Linked In" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
