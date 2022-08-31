@@ -15,7 +15,7 @@
 - I learn English mainly from interact with others everyday in social media and game, sorry if I did not use the right grammar
 
 ### Social Media
-<a href="https://www.linkedin.com/in/irfannadabs/">
+<p>Linked In</p><a href="https://www.linkedin.com/in/irfannadabs/">
   <img align="center" alt="Irfan's Linked In" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/irfannbsin/">
