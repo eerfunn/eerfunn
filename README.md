@@ -31,16 +31,23 @@
 
 ### Social Media
 <a href="https://www.linkedin.com/in/irfannadabs/">
-  <img align="center" alt="Irfan's Linked In" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Irfan's Linked In" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+&ensp;&ensp;
+<!--
+Instagram Logo: By Instagram - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=48863359
+-->
 <a href="https://www.instagram.com/irfannbsin/">
-  <img align="center" alt="Irfan's Instagram" width="50px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+
+  <img align="center" alt="Irfan's Instagram" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/instagram.svg" />sv
 </a>
+&ensp;&ensp;
 <a href="https://www.twitter.com/irfannadabs">
-  <img align="center" alt="Irfan's Twitter" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Irfan's Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+&ensp;&ensp;
 <a href="https://www.facebook.com/profile.php?id=100078145747771">
-<img align="center" alt="Irfan's Facebook" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/facebook.png"/></a>
+<img align="center" alt="Irfan's Facebook" width="35px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/facebook.png"/></a>
 
 <!--
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
