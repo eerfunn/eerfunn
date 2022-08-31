@@ -16,15 +16,16 @@
 
 ### Social Media
 <a href="https://www.linkedin.com/in/irfannadabs/">
-  <img align="left" alt="Irfan's Linked In" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Irfan's Linked In" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/irfannbsin/">
-  <img align="left" alt="Irfan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="center" alt="Irfan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/irfannadabs">
-  <img align="left" alt="Irfan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.twitter.com/irfannadabs">
+  <img align="center" alt="Irfan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
+<a href="https://www.facebook.com/profile.php?id=100078145747771">
+<img align="center" alt="Irfan's Facebook" width="22px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/images/facebook.png"/></a>
 
 <!--
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
