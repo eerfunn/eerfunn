@@ -11,7 +11,7 @@
 - 🗼 Looking for working with learning opportunities,  I always feel that I needs to learn more. I peek a lot to stackoverflow, youtube tutorials, and others to complete a task and fix an error.
 - 👯 Looking to collaborate on fun projects so I can learn and code without having so much pressure
 - ✏️ Studying Information Systems at UPNVJ since 2019
-- 🌱 I’m currently learning Full Stack Web Development with MERN, Multiplatform App Development with Flutter (Android, Web), and 🎮 Game Development with Unity (I learn mainly for fun and kill time when I bored or burn out with Web and Android Development)
+- 🌱 I’m currently learning MERN, Flutter (Android, Web), and 🎮 Game Development with Unity (I learn mainly for fun and kill time when I bored or burn out)
 - ⚡Fun Fact: I learn English mainly from interact with others everyday in social media and game, sorry if I did not use the right grammar
 - ⚡Fun Fact: Since 2022 I'd prefer using node js, and I'm surprised PHP & Laravel Blade are my top stat :3
 - ⚡Fun Fact: I also learn German Language from Duolingo, for kill time and keep myself learning everyday :3
