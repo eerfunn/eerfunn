@@ -15,9 +15,9 @@
 
 ### Techs
 <p>
-<a href="https://en.wikipedia.org/wiki/HTML"><img align="center" alt="HTML 5" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/html5.png"/></a>
-<a href="https://en.wikipedia.org/wiki/CSS"><img align="center" alt="CSS 3" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/css3.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img align="center" alt="Javascript" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/js.png"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img align="center" alt="HTML 5" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/html.svg"/></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img align="center" alt="CSS 3" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/css.svg"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img align="center" alt="Javascript" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/js.svg"/></a>
 <a href="https://www.php.net/"><img align="center" alt="PHP" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/php.svg"/></a>
 <a href="https://www.mongodb.com/"><img align="center" alt="Mongo DB" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/mongo.png"/></a>
 <a href="http://expressjs.com/"><img align="center" alt="Express JS" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/express.png"/></a>
@@ -49,10 +49,14 @@
 
 ### Thanks for your visit, have a good day!
 <!--
+Attribution
+
 Instagram Logo: By Instagram - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=48863359
 PHP Logo: Colin Viebrock released the PHP logo as Creative Commons Attribution-Share Alike 4.0 International
 Git Logo: By Jason Long - http://git-scm.com/downloads/logos, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=52567855
-
+CSS Logo: By daPhyre (File:CSS3 and HTML5 logos and wordmarks.svg)Elfi (File:CSS3 logo and wordmark.svg)ExE Boss - File:CSS3 and HTML5 logos and wordmarks.svgFile:CSS3 logo and wordmark.svg, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=107268458
+HTML Logo: By W3C - http://www.w3.org/html/logo/index.html, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=12868160
+JavaScript Logo: By Chris Williams - GitHub.com, Public Domain, https://commons.wikimedia.org/w/index.php?curid=20806506
 -->
 <!--
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
