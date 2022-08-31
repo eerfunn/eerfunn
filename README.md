@@ -31,7 +31,9 @@
 <a href="https://flutter.dev/"><img align="center" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/flutter.png"/></a>
 <a href="https://git-scm.com/"><img align="center" alt="Git Logo" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/git.svg"/></a>
 </p>
+
 #### Note: Some Logo May Not Be Visible In Light Mode
+
 ### Social Media
 <a href="https://www.linkedin.com/in/irfannadabs/">
   <img align="center" alt="Irfan's Linked In" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
