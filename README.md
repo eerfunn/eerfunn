@@ -12,6 +12,8 @@
 - Since 2022 I'd prefer using node js, and I'm surprised PHP & Laravel Blade are my top stat :3
 - Studying Information Systems at UPNVJ since 2019
 - I learn English mainly from interact with others everyday in social media and game, sorry if I did not use the right grammar
+- 🌱 I’m currently learning Full Stack Web Development with MERN, Multiplatform App Development with Flutter (Android, Web), and Game Development with Unity Game Engine (I learn mainly for fun and kill time when I bored on burn out with Web and Android Development)
+- I also learn German Language from Duolingo, for kill time and keep myself learning everyday :3
 
 ### Techs
 <p>
