@@ -1,6 +1,6 @@
 ## Hi, Welcome to my profile and nice to meet you!
 ### My Profile Stats
-
+![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true)
 
 ### My Top Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact)
