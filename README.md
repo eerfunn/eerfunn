@@ -25,7 +25,7 @@
   <img align="center" alt="Irfan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100078145747771">
-<img align="center" alt="Irfan's Facebook" width="22px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/images/facebook.png"/></a>
+<img align="center" alt="Irfan's Facebook" width="22px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/facebook.png"/></a>
 
 <!--
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
