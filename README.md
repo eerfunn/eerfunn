@@ -50,8 +50,7 @@
 <img align="center" alt="Irfan's Facebook" width="40px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/facebook.png"/></a>
 
 #### My Favorite Quote:
-*"Das Genie wohnt nur eine Etage höher als der Wahnsinn"*. 
-*— Arthur Schopenhauer.*
+>**"Das Genie wohnt nur eine Etage höher als der Wahnsinn". — Arthur Schopenhauer.**
 ### Thanks for your visit, have a good day!
 <!--
 Attribution
