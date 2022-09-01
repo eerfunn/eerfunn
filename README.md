@@ -27,7 +27,8 @@
 <a href="https://cloud.google.com/"><img align="center" alt="Google Cloud" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/gcp.png"/></a>
 <a href="https://unity.com/solutions/game"><img align="center" alt="Google Cloud" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/unity.png"/></a>
 <a href="https://flutter.dev/"><img align="center" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/flutter.png"/></a>
-<a href="https://git-scm.com/"><img align="center" alt="Git Logo" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/git.svg"/></a>
+<a href="https://git-scm.com/"><img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/git.svg"/></a>
+<a href="https://www.figma.com/"><img align="center" alt="Figma" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/figma.svg"/></a>
 </p>
 
 #### Note: Some Logo May Not Be Visible In Light Mode
@@ -48,6 +49,9 @@
 <a href="https://www.facebook.com/profile.php?id=100078145747771">
 <img align="center" alt="Irfan's Facebook" width="40px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/facebook.png"/></a>
 
+#### My Favorite Quote:
+*"Das Genie wohnt nur eine Etage höher als der Wahnsinn"*. 
+*— Arthur Schopenhauer.*
 ### Thanks for your visit, have a good day!
 <!--
 Attribution
