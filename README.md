@@ -6,12 +6,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)
 
 ### About Me
-- 💖 I like anime , mainly Slice of Life and 🌏 Isekai genres
-- 🗼 Looking for working with learning opportunities, I peek a lot to stackoverflow, youtube tutorials, and others to complete a task and fix an error.
-- ✏️ Studying Information Systems at UPNVJ since 2019
-- 🌱 I’m currently learning MERN, Flutter (Android, Web), and 🎮 Game Dev with Unity
-- ⚡Fun Fact: I learn English mainly from interact with others everyday in social media and game, sorry if I did not use the right grammar
-- 👯 Looking to collaborate on fun projects (mainly related to: anime, manga, and other weeb stuffs) so I can learn and code without having so much pressure
+- 💖 I like anime (My Fav SoL, Comedy/RomCom, and Isekai)
+- 🔭 I’m currently working on my portfolio
+- 🗼 Looking for working with learning opportunities
+- ✏️ Last year Information Systems student
+- 🌱 I’m currently learning MERN, Flutter, and 🎮 Game Dev with Unity
+- 👯 Want to collaborate on fun projects (mainly related to animanga) so I can enjoy the journey
+- ⚡Fun Fact: I hate college.
 ### Techs
 <p>
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="center" alt="HTML 5" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/html.svg"/></a>
@@ -49,8 +50,8 @@
 <a href="https://www.facebook.com/profile.php?id=100078145747771">
 <img align="center" alt="Irfan's Facebook" width="40px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/facebook.png"/></a>
 
-#### My Favorite Quote:
-***"Das Genie wohnt nur eine Etage höher als der Wahnsinn". — Arthur Schopenhauer.***
+### My Favorite Quote:
+### ***"Das Genie wohnt nur eine Etage höher als der Wahnsinn". — Arthur Schopenhauer.***
 ### Thanks for your visit, have a good day!
 <!--
 Attribution
