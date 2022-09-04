@@ -6,13 +6,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)
 
 ### About Me
-- 💖 I like anime (My Fav SoL, Comedy/RomCom, and Isekai)
+- 💖 I like anime
 - 🔭 I’m currently working on my portfolio
-- 🗼 Looking for working with learning opportunities
-- ✏️ Last year Information Systems student
-- 🌱 I’m currently learning MERN, Flutter, and 🎮 Game Dev with Unity
-- 👯 Want to collaborate on fun projects (mainly related to animanga) so I can enjoy the journey
+- 🗼 Looking for Internship oppoturnities
+- ✏️ Final year Computer Science student
+- 🌱 Learning MERN, Flutter, and 🎮 Game Dev with Unity
+- 👯 Want to collaborate and learn on fun projects related to animanga
 - ⚡Fun Fact: I hate college.
+
 ### Techs
 <p>
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="center" alt="HTML 5" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/html.svg"/></a>
