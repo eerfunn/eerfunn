@@ -5,6 +5,9 @@
 ### My Top Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)
 
+### Experience
+- Binar Academy, Full Stack Web Developer Internship (Feb 2022 - Jul 2022)
+
 ### About Me
 - 💖 I like anime
 - 🔭 I’m currently working on my portfolio
@@ -31,6 +34,8 @@
 <a href="https://flutter.dev/"><img align="center" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/flutter.png"/></a>
 <a href="https://git-scm.com/"><img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/git.svg"/></a>
 <a href="https://www.figma.com/"><img align="center" alt="Figma" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/figma.svg"/></a>
+</p>
+<a href="https://www.typescriptlang.org/"><img align="center" alt="Figma" width="50px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/typescript.svg"/></a>
 </p>
 
 #### Note: Some Logo May Not Be Visible In Light Mode
@@ -63,6 +68,7 @@ Git Logo: By Jason Long - http://git-scm.com/downloads/logos, CC BY 3.0, https:/
 CSS Logo: By daPhyre (File:CSS3 and HTML5 logos and wordmarks.svg)Elfi (File:CSS3 logo and wordmark.svg)ExE Boss - File:CSS3 and HTML5 logos and wordmarks.svgFile:CSS3 logo and wordmark.svg, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=107268458
 HTML Logo: By W3C - http://www.w3.org/html/logo/index.html, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=12868160
 JavaScript Logo: By Chris Williams - GitHub.com, Public Domain, https://commons.wikimedia.org/w/index.php?curid=20806506
+TypeScript Logo: By ™/®Microsoft - Vectorised by Vulphere from https://github.com/microsoft/TypeScript-Website/blob/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=92913059
 -->
 <!--
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
