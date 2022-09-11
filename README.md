@@ -1,6 +1,6 @@
 ## Hi, Welcome to my profile and nice to meet you!
 
-<img align="center" alt="Prinz Eugen Azur Lane" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/eugen.png" width="50%" height="50%" />
+<img align="center" alt="Prinz Eugen Azur Lane" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/eugen.png" />
 
 ### My Profile Stats
 
@@ -8,10 +8,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)
 
-### Experience & Training
+### Experience
 
 - Binar Academy, Full Stack Web Developer Internship (Feb 2022 - Jul 2022)
-- Google Data Analytics Scholarship from Ministry of Communication and Information Technology of Republic of Indonesia (Aug 2022 - Nov 2022)
+- Google Data Analytics Scholarship from Indonesia Government (Aug 2022 - Nov 2022)
 
 ### About Me
 
