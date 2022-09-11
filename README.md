@@ -1,4 +1,4 @@
-## Hi, Welcome to my profile and nice to meet you!
+## Hi, Welcome to my profile and nice to meet you! 🌟
 
 <img align="center" alt="Prinz Eugen Azur Lane" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/eugen.png" />
 
@@ -11,14 +11,7 @@
 ### Experience
 
 - Binar Academy, Full Stack Web Developer Internship (Feb 2022 - Jul 2022)
-- Google Data Analytics Scholarship from Indonesia Government (Aug 2022 - Nov 2022)
-
-### About Me
-
-- 💖 Anime
-- 🌱 Web Development / Full Stack
-- 👯 Want collaborate on fun projects (esp. related to anime and manga)
-- ⚡ Anime gacha game addict (Arknights, Azur Lane, etc)
+- Digital Talent Schlolarship, Google Data Analytics (Aug 2022 - Nov 2022)
 
 ### Techs
 
@@ -53,6 +46,13 @@
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Code_Igniter-black?style=flat-square&logo=codeigniter)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Unity_Game_Engine-black?style=flat-square&logo=unity)
+
+### About Me
+
+- 💖 Anime
+- 🌱 Web Development / Full Stack
+- 👯 Want collaborate on fun projects (esp. related to anime and manga)
+- ⚡ Anime gacha game addict (Arknights, Azur Lane, etc)
 
 ### Social Media
 
