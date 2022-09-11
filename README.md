@@ -1,6 +1,6 @@
 ## Hi, Welcome to my profile and nice to meet you!
 
-<img src="https://i.pximg.net/img-master/img/2022/03/28/00/01/57/97224574_p0_master1200.jpg">
+<img align="center" alt="Irfan's Instagram" width="40px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/eugen.png" />
 
 ### My Profile Stats
 
@@ -8,16 +8,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)
 
-### Experience
+### Experience & Training
 
 - Binar Academy, Full Stack Web Developer Internship (Feb 2022 - Jul 2022)
+- Google Data Analytics Scholarship from Ministry of Communication and Information Technology of Republic of Indonesia (Aug 2022 - Nov 2022)
 
 ### About Me
 
 - 💖 Anime
 - 🌱 Web Development / Full Stack
 - 👯 Want collaborate on fun projects (esp. related to anime and manga)
-- ⚡ Anime gacha game addict (Arknights, Azur Lane), Google Data Analytics scholarship from Indonesia Communication Ministry
+- ⚡ Anime gacha game addict (Arknights, Azur Lane, etc)
 
 ### Techs
 
@@ -61,7 +62,7 @@
 
 ### Others
 
-- Main art by Chaerom (Pixiv)
+- Main art by ひみつ (Pixiv)
 - Favorite Quote:
 
 ### **_"Das Genie wohnt nur eine Etage höher als der Wahnsinn". — Arthur Schopenhauer._**
