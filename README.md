@@ -1,6 +1,6 @@
 ## Hi, Welcome to my profile and nice to meet you!
 
-<img align="center" alt="Irfan's Instagram" width="40px" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/eugen.png" width="50%" height="50%" />
+<img align="center" alt="Prinz Eugen Azur Lane" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/eugen.png" width="50%" height="50%" />
 
 ### My Profile Stats
 
