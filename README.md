@@ -56,9 +56,9 @@
 
 ### Social Media
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linked_In-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/irfannadabs/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.twitter.com/irfannadabs)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.instagram.com/irfannbsin/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linked_In-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfannadabs/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-cyan?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/irfannadabs)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-fuchsia?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/irfannbsin/)
 
 ### Others
 
