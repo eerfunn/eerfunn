@@ -12,6 +12,7 @@
 
 - Binar Academy, Full Stack Web Developer Internship (Feb 2022 - Jul 2022)
 - Digital Talent Schlolarship, Google Data Analytics (Aug 2022 - Nov 2022)
+- Baparekraf Digital Talent, Google IT Support (Oct 2022 - Dec 2022)
 
 ### Techs
 
