@@ -2,6 +2,8 @@
 
 <img align="center" alt="Prinz Eugen Azur Lane" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/eugen.png" />
 
+### I learn how to code, I learn how to draw, and I learn how to enjoy my life.
+
 ### My Profile Stats
 
 [![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)](https://github.com/eerfunn)
@@ -65,12 +67,13 @@
 
 - Main art by ひみつ (Pixiv)
 - Completed JuaraGCP Season 7, event held by Google Indonesia to learn Google Cloud
+- Farming Hacktoberfest 2022
 - Google Crowdsource Contributor
 - Favorite Quote:
 
 ### **_"Das Genie wohnt nur eine Etage höher als der Wahnsinn". — Arthur Schopenhauer._**
 
-> I like because it sounds cool :3
+> Classroom of Elite S1
 
 ### Thanks for your visit, have a good day!🌟
 
