@@ -52,7 +52,7 @@
 
 ### About Me
 
-- 💖 Anime
+- 💖 Anime, Manga
 - 🌱 Web Development / Full Stack
 - 👯 Want collaborate on fun projects (esp. related to anime and manga)
 - ⚡ Anime gacha game player (Arknights, Azur Lane, etc)
@@ -66,23 +66,22 @@
 ### Others
 
 - Main art by ひみつ (Pixiv)
-- Completed JuaraGCP Season 7, event held by Google Indonesia to learn Google Cloud
-- Farming Hacktoberfest 2022
+- Completed JuaraGCP Season 7, Juara Android Season 2, Hacktoberfest 2022
 - Google Crowdsource Contributor
 - Favorite Quote:
 
-### **_"Das Genie wohnt nur eine Etage höher als der Wahnsinn". — Arthur Schopenhauer._**
+### **_"Your work is gonna fill a large part of your life, and the only way to be satisfied is to do what you believe is great work, and the only way to do great work is to love what you do". — Steve Jobs._**
 
-> Classroom of Elite S1
+### **_"And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become, everything else is secondary". — Steve Jobs._**
+
+### **_"Genius lives just one floor above madness". — Arthur Schopenhauer._**
+
+### **_"Don't live others' lives, don't pursue other's dreams, don't forget what happiness means for you. I did, and now regret it."— Irfan Nada._**
+
+### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
 ### Thanks for your visit, have a good day!🌟
 
-<!--
-Attribution
-
-Instagram Logo: By Instagram - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=48863359
-
--->
 <!--
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
