@@ -1,8 +1,7 @@
 ## Hi, Welcome to my profile and nice to meet you! 🌟
 
 <img align="center" alt="Prinz Eugen Azur Lane" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/eugen.png" />
-
-### I learn how to code, I learn how to draw, and I learn how to enjoy my life.
+- Art by ひみつ (Pixiv)
 
 ### My Profile Stats
 
@@ -42,7 +41,7 @@
 
 #### The only thing I know is, that I know nothing.
 
-> Not really enjoy it, can learn it again if needed
+> Tried it few times
 
 ![Irfan's GitHub stats](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
@@ -63,9 +62,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-cyan?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/irfannadabs)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-fuchsia?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/irfannbsin/)
 
-### Others
+### Addition and Motivation
 
-- Main art by ひみつ (Pixiv)
 - Completed JuaraGCP Season 7, Juara Android Season 2, Hacktoberfest 2022
 - Google Crowdsource Contributor
 - Favorite Quote:
@@ -78,11 +76,14 @@
 
 ### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
-### **_"Stay Hungry, Stay Foolis" — The Whole Earth Catalog_**
+### **_"Stay Hungry, Stay Foolish" — The Whole Earth Catalog_**
 
 ### Thanks for your visit, have a good day!🌟
 
 <!--
+
+### I learn how to code, I learn how to draw, and I learn how to enjoy my life.
+
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
