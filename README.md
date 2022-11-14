@@ -17,6 +17,7 @@
 
 - Digital Talent Schlolarship, Google Data Analytics (Aug 2022 - Nov 2022)
 - Baparekraf Digital Talent, Google IT Support (Oct 2022 - Dec 2022)
+- Google Cloud, Associate Cloud Engineer (Mid 2022)
 
 ### Technologies
 
