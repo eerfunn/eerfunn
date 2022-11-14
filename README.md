@@ -12,10 +12,13 @@
 ### Experience
 
 - Binar Academy, Full Stack Web Developer Internship (Feb 2022 - Jul 2022)
+
+### Trainings
+
 - Digital Talent Schlolarship, Google Data Analytics (Aug 2022 - Nov 2022)
 - Baparekraf Digital Talent, Google IT Support (Oct 2022 - Dec 2022)
 
-### Techs
+### Technologies
 
 #### What I know
 
@@ -39,9 +42,9 @@
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Google_Data_Analytics-black?style=flat-square&logo=googleanalytics)
 
-#### The only thing I know is, that I know nothing.
+#### Tried it few times
 
-> Tried it few times
+> The only thing I know is, that I know nothing
 
 ![Irfan's GitHub stats](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
