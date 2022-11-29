@@ -21,7 +21,7 @@
 
 ### Technologies
 
-#### What I know
+#### What I learn
 
 ![Irfan's GitHub stats](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
@@ -30,9 +30,6 @@
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-
-#### What I learn
-
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
@@ -43,7 +40,7 @@
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Google_Data_Analytics-black?style=flat-square&logo=googleanalytics)
 
-#### Tried it few times
+#### Tried it before
 
 > The only thing I know is, that I know nothing
 
@@ -55,10 +52,10 @@
 
 ### About Me
 
-- 💖 Anime, Manga
-- 🌱 Web Development / Full Stack
-- 👯 Want collaborate on fun projects (esp. related to anime and manga)
-- ⚡ Anime gacha game player (Arknights, Azur Lane, etc)
+- 💖 Anime stuffs
+- 🌱 Web Development / Full Stack / Data Analytics
+- 👯 Want to make anime-based start up
+- ⚡ Anime gacha game player (Arknights, Azur Lane, Neural Cloud, etc)
 
 ### Social Media
 
@@ -70,23 +67,22 @@
 
 - Completed JuaraGCP Season 7, Juara Android Season 2, Hacktoberfest 2022
 - Google Crowdsource Contributor
-- Favorite Quote:
+- Eventhough kinda struggle, I also learn few languages like Indonesian, English, 日本語, und Deutsch!
+- Favorite Quotes:
 
 **_"Your work is gonna fill a large part of your life, and the only way to be satisfied is to do what you believe is great work, and the only way to do great work is to love what you do" — Steve Jobs_**
 
 **_"And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become, everything else is secondary" — Steve Jobs_**
 
-**_"Don't live others' lives, don't pursue other's dreams, don't forget what happiness means for you. I did, and now regret it" — Irfan Nada_**
+**_"Stay Hungry, Stay Foolish" — The Whole Earth Catalog_**
 
-### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
+#### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
-### **_"Stay Hungry, Stay Foolish" — The Whole Earth Catalog_**
+### **_"I want to having fun as much as I can (mainly related to anime events), so that I wont regret this life when I died."_**
 
 ### Thanks for your visit, have a good day!🌟
 
 <!--
-
-### I learn how to code, I learn how to draw, and I learn how to enjoy my life.
 
 **eerfunn/eerfunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
