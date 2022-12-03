@@ -15,8 +15,8 @@
 
 ### Trainings
 
-- Digital Talent Schlolarship, Google Data Analytics (Aug 2022 - Nov 2022)
-- Baparekraf Digital Talent, Google IT Support (Oct 2022 - Dec 2022)
+- Digital Talent Schlolarship, Google Data Analytics Professional Certificate (Aug 2022 - Nov 2022)
+- Baparekraf Digital Talent, Google IT Support Professional Certificate (Oct 2022 - Dec 2022)
 - Google Cloud, Associate Cloud Engineer (Mid 2022)
 
 ### Technologies
@@ -42,8 +42,6 @@
 
 #### Tried it before
 
-> The only thing I know is, that I know nothing
-
 ![Irfan's GitHub stats](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Code_Igniter-black?style=flat-square&logo=codeigniter)
@@ -54,8 +52,8 @@
 
 - 💖 Anime stuffs
 - 🌱 Web Development / Full Stack / Data Analytics
-- 👯 Want to make anime-based start up
-- ⚡ Anime gacha game player (Arknights, Azur Lane, Neural Cloud, etc)
+- 🔭 Work on self-improvement
+- ⚡ Player: Arknights, Azur Lane, Neural Cloud, etc
 
 ### Social Media
 
@@ -67,18 +65,16 @@
 
 - Completed JuaraGCP Season 7, Juara Android Season 2, Hacktoberfest 2022
 - Google Crowdsource Contributor
-- Eventhough kinda struggle, I also learn few languages like Indonesian, English, 日本語, und Deutsch!
-- Favorite Quotes:
+- [Suspended], I also learn few languages like Indonesian, English, 日本語, und Deutsch!
+- Favourite Quotes:
 
-**_"Your work is gonna fill a large part of your life, and the only way to be satisfied is to do what you believe is great work, and the only way to do great work is to love what you do" — Steve Jobs_**
-
-**_"And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become, everything else is secondary" — Steve Jobs_**
+**_"Your work is gonna fill a large part of your life, and the only way to be satisfied is to do what you believe is great work, and the only way to do great work is to love what you do ... And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become, everything else is secondary" — Steve Jobs_**
 
 **_"Stay Hungry, Stay Foolish" — The Whole Earth Catalog_**
 
 #### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
-### **_"I want to having fun as much as I can (mainly related to anime events), so that I wont regret this life when I died."_**
+### **_"Want to have as much fun as I can (Anime), so I won't regret this life when I die"_**
 
 ### Thanks for your visit, have a good day!🌟
 
