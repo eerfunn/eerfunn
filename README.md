@@ -74,7 +74,7 @@
 
 #### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
-### **_"Want to have as much fun as I can (Anime), so I won't regret this life when I die"_**
+### **_"Want to have as much fun as I can (Mainly Anime Event and Stuffs), so I won't regret this life when I die"_**
 
 ### Thanks for your visit, have a good day!🌟
 
