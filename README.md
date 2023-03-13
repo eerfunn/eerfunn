@@ -9,17 +9,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)](https://github.com/eerfunn)
 
-### Experience
+### Experience & Trainings
 
-- Binar Academy, Full Stack Web Developer Internship (Feb 2022 - Jul 2022)
-
-### Trainings
-
+- Binar Academy, Full Stack Web Developer Independent Study and Internship (Feb 2022 - Jul 2022)
 - Digital Talent Schlolarship, Google Data Analytics Professional Certificate (Aug 2022 - Nov 2022)
 - Baparekraf Digital Talent, Google IT Support Professional Certificate (Oct 2022 - Dec 2022)
-- Google Cloud, Associate Cloud Engineer (Mid 2022)
-
-### Technologies
+- Fresh Graduate Academy, UIUX Designer Bootcamp (Mar 2023 - Apr 2023)
 
 #### What I learn
 
@@ -31,14 +26,15 @@
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
-![Irfan's GitHub stats](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+
+<!-- ![Irfan's GitHub stats](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
-![Irfan's GitHub stats](https://img.shields.io/badge/-Sanity.io-black?style=flat-square)
+![Irfan's GitHub stats](https://img.shields.io/badge/-Sanity.io-black?style=flat-square) -->
+
 ![Irfan's GitHub stats](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=googlecloud)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Irfan's GitHub stats](https://img.shields.io/badge/-Google_Data_Analytics-black?style=flat-square&logo=googleanalytics)
 
 #### Tried it before
 
@@ -53,7 +49,8 @@
 - 💖 Anime stuffs
 - 🌱 Web Development / Full Stack / Data Analytics
 - 🔭 Work on self-improvement
-- ⚡ Player: Arknights, Azur Lane, Neural Cloud, etc
+- ⚡ Player: Arknights, Azur Lane, etc
+- :spades: Master of none
 
 ### Social Media
 
@@ -61,11 +58,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-cyan?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/irfannadabs)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-fuchsia?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/irfannbsin/)
 
-### Addition and Motivation
+### Others
 
-- Completed JuaraGCP Season 7, Juara Android Season 2, Hacktoberfest 2022
+- Completed JuaraGCP Season 7, JuaraGCP Season 8, Juara Android Season 2, and Hacktoberfest 2022
 - Google Crowdsource Contributor
-- [Suspended], I also learn few languages like Indonesian, English, 日本語, und Deutsch!
 - Favourite Quotes:
 
 **_"Your work is gonna fill a large part of your life, and the only way to be satisfied is to do what you believe is great work, and the only way to do great work is to love what you do ... And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become, everything else is secondary" — Steve Jobs_**
@@ -74,7 +70,7 @@
 
 #### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
-### **_"Want to have as much fun as I can (Mainly Anime Event and Stuffs), so I won't regret this life when I die"_**
+### **_"I Want to have as much fun as I can (Mainly relate to Anime Event and Stuffs), so I won't regret my life when I die"_**
 
 ### Thanks for your visit, have a good day!🌟
 
