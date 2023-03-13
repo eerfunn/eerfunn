@@ -67,7 +67,7 @@
 ### Others
 
 - Completed JuaraGCP Season 7, JuaraGCP Season 8, Juara Android Season 2, and Hacktoberfest 2022
-- ## Google Crowdsource Contributor
+- Google Crowdsource Contributor
 
 ---
 
