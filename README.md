@@ -7,8 +7,8 @@
 
 ### My Profile Stats
 
-<a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700"/></a>
-<a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700"/></a>
+| <a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700"/></a> |
+<a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700"/></a> |
 
 <!-- [![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)](https://github.com/eerfunn) -->
 
