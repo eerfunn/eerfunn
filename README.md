@@ -3,13 +3,14 @@
 <img align="center" alt="Prinz Eugen Azur Lane" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/eugen.png" />
 - Art by ひみつ (Pixiv)
 
+<br>
+
 [![An image of @eerfunn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eerfunn)](https://holopin.io/@eerfunn)
 
 ### My Profile Stats
 
-| <a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700"/></a> |
-<a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700"/></a> |
-| ------------- | ------------- |
+<a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700" alt="Irfan's GitHub stats"/></a>
+<a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700" alt="Irfan's language stats"/></a>
 
 <!-- [![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)](https://github.com/eerfunn) -->
 
@@ -61,7 +62,7 @@
 
 ### Social Media
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linked_In-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfannadabs/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Linked_In-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfannadabs/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-cyan?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/irfannadabs)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-fuchsia?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/irfannbsin/)
 
@@ -69,11 +70,7 @@
 
 - Completed JuaraGCP Season 7, JuaraGCP Season 8, Juara Android Season 2, and Hacktoberfest 2022
 - Google Crowdsource Contributor
-- Favourite Quotes:
-
-**_"Your work is gonna fill a large part of your life, and the only way to be satisfied is to do what you believe is great work, and the only way to do great work is to love what you do ... And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become, everything else is secondary" — Steve Jobs_**
-
-**_"Stay Hungry, Stay Foolish" — The Whole Earth Catalog_**
+  **_"Your work is gonna fill a large part of your life, and the only way to be satisfied is to do what you believe is great work, and the only way to do great work is to love what you do ... And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become, everything else is secondary" — Steve Jobs_**
 
 #### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
