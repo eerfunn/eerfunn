@@ -67,14 +67,19 @@
 ### Others
 
 - Completed JuaraGCP Season 7, JuaraGCP Season 8, Juara Android Season 2, and Hacktoberfest 2022
-- Google Crowdsource Contributor
-  **_"Your work is gonna fill a large part of your life, and the only way to be satisfied is to do what you believe is great work, and the only way to do great work is to love what you do ... And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become, everything else is secondary" — Steve Jobs_**
+- ## Google Crowdsource Contributor
+
+---
+
+**_"Your work is gonna fill a large part of your life, and the only way to be satisfied is to do what you believe is great work, and the only way to do great work is to love what you do ... And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become, everything else is secondary" — Steve Jobs_**
 
 #### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
-### **_"I Want to have as much fun as I can (Mainly relate to Anime Event and Stuffs), so I won't regret my life when I die"_**
+### **_"I Want to have as much fun as I can (Mainly related to Anime Stuffs), so I won't regret my life again"_**
 
 ### Thanks for your visit, have a good day!🌟
+
+---
 
 <!--
 
