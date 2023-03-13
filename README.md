@@ -3,17 +3,23 @@
 <img align="center" alt="Prinz Eugen Azur Lane" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/eugen.png" />
 - Art by ひみつ (Pixiv)
 
+[![An image of @eerfunn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eerfunn)](https://holopin.io/@eerfunn)
+
 ### My Profile Stats
 
-[![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)](https://github.com/eerfunn)
+<a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700"/></a>
+<a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)](https://github.com/eerfunn)
+<!-- [![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)](https://github.com/eerfunn) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700)](https://github.com/eerfunn) -->
 
 ### Experience & Trainings
 
 - Binar Academy, Full Stack Web Developer Independent Study and Internship (Feb 2022 - Jul 2022)
 - Digital Talent Schlolarship, Google Data Analytics Professional Certificate (Aug 2022 - Nov 2022)
 - Baparekraf Digital Talent, Google IT Support Professional Certificate (Oct 2022 - Dec 2022)
+- General Electric, Data Analytics Virtual Experience Program (Dec 2022 - Jan 2023)
 - Fresh Graduate Academy, UIUX Designer Bootcamp (Mar 2023 - Apr 2023)
 
 #### What I learn
