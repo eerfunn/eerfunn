@@ -1,9 +1,7 @@
 ## Hi, Welcome to my profile and nice to meet you! 🌟
 
 <img align="center" alt="Prinz Eugen Azur Lane" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/eugen.png" />
-- Art by ひみつ (Pixiv)
-
-<br>
+- Prinz Eugen's Art by ひみつ (Pixiv)
 
 [![An image of @eerfunn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eerfunn)](https://holopin.io/@eerfunn)
 
