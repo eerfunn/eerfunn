@@ -21,6 +21,7 @@
 - Baparekraf Digital Talent, Google IT Support Professional Certificate (Oct 2022 - Dec 2022)
 - General Electric, Data Analytics Virtual Experience Program (Dec 2022 - Jan 2023)
 - Fresh Graduate Academy, UIUX Designer Bootcamp (Mar 2023 - Apr 2023)
+- GoTo Impact, Fullstack Developer Trainee (June 2023 - Dec 2023)
 
 #### What I learn
 
