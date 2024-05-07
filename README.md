@@ -1,5 +1,5 @@
-**_"Your work is gonna fill a large part of your life, ...and the only way to do great work is to love what you do._**
-**_And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become_**
+**_"Your work is gonna fill a large part of your life, ...and the only way to do great work is to love what you do._**\
+**_And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become_**\
 **_Everything else, is secondary." — Steve Jobs_**
 
 ## Hi, Welcome to my profile and nice to meet you! 🌟
