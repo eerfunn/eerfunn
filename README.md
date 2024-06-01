@@ -17,11 +17,11 @@
 ### Experience & Trainings
 
 - Binar Academy, Full Stack Web Developer Independent Study and Internship (Feb 2022 - Jul 2022)
-- Digital Talent Schlolarship, Google Data Analytics Professional Certificate (Aug 2022 - Nov 2022)
-- Baparekraf Digital Talent, Google IT Support Professional Certificate (Oct 2022 - Dec 2022)
-- General Electric, Data Analytics Virtual Experience Program (Dec 2022 - Jan 2023)
-- Fresh Graduate Academy, UIUX Designer Bootcamp (Mar 2023 - Apr 2023)
-- GoTo Impact, Fullstack Developer Trainee (June 2023 - Dec 2023)
+- Digital Talent Schlolarship, Google Data Analytics Professional Trainee (Aug 2022 - Nov 2022)
+- Baparekraf Digital Talent, Google IT Support Professional Trainee (Oct 2022 - Dec 2022)
+- General Electric, Data Analytics Virtual Intern (Dec 2022 - Jan 2023)
+- Kominfo Fresh Graduate Academy, UIUX Designer Trainee (Mar 2023 - Apr 2023)
+- GoTo Impact, Fullstack Developer Apprenticeship (June 2023 - Dec 2023)
 
 #### What I've learned before (Some of these are like years ago lol)
 
@@ -48,7 +48,7 @@
 - 💖 Anime stuffs, oftentimes going to anime convention (When I have money, and that's why I'm looking for a job rn xD)
 - 🌱 I'm currently learning Digital Art (Still learning anatomy and perspective .\_.)
 - 🔭 I played a lot of games when I got stressed (Honkai Star Rail, Honkai Impact, Arena Breakout, and sometimes Mobile Legends)
-- Desperately looking for a job (However I have no motivation to update my portfolio, because I get no money nor I enjoy to code something I don't like)
+- Looking for a job (However if I can I want to work on anime-related company, because it's better to work on something that you like, right?)
 
 ### Reach me out on Social Media:
 
@@ -65,9 +65,9 @@
 
 #### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
-### **_After years, I found my "place" in anime community. Sometimes I wish to go back to the past and focused on art lesson to be an anime illustrator, instead of playing with IT and running from bullies..._**
+### **_Sometimes I wish to go back to the past and focused on art lesson to be an anime illustrator, instead of playing with IT shit(s) and running from bullies..._**
 
-> This is not an advice, but please follow your passion. To be be able to follow your own passion, to be yourself, don't think too much about people opinion, and to be proud of your works and your self is just wonderful way of living. - From someone who's regret his life, because he always follow and bow down to "others".
+> If you read this, I wish you can follow your passion. To be be able to follow your own passion, to be yourself, don't think too much about people opinion, and to be proud of your works and your self is just wonderful way of living. - From someone who's regret his life, because he always bow down to "others".
 
 ### Thanks for your visit, wish you always happy, and have a great day!🌟
 
