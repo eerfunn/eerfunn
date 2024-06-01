@@ -23,31 +23,35 @@
 - Kominfo Fresh Graduate Academy, UIUX Designer Trainee (Mar 2023 - Apr 2023)
 - GoTo Impact, Fullstack Developer Apprenticeship (June 2023 - Dec 2023)
 
-#### What I've learned before (Some of these are like years ago lol)
+#### What I've learned (Some of these are like years ago lol)
 
+![Irfan's GitHub stats](https://img.shields.io/badge/Adobe%20After%20Effects-393665?logo=Adobe%20After%20Effects&logoColor=CF96FD)
+![Irfan's GitHub stats](https://img.shields.io/badge/Adobe%20Illustrator-000?logo=adobe%20illustrator&logoColor=white)
+![Irfan's GitHub stats](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
+![Irfan's GitHub stats](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
-![Irfan's GitHub stats](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
-![Irfan's GitHub stats](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Irfan's GitHub stats](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Irfan's GitHub stats](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
-![Irfan's GitHub stats](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![Irfan's GitHub stats](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Irfan's GitHub stats](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![Irfan's GitHub stats](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![Irfan's GitHub stats](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=googlecloud)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Irfan's GitHub stats](https://img.shields.io/badge/Kubernetes-000?logo=kubernetes&logoColor=326CE5)
+![Irfan's GitHub stats](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Code_Igniter-black?style=flat-square&logo=codeigniter)
-![Irfan's GitHub stats](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Unity_Game_Engine-black?style=flat-square&logo=unity)
 
 ### About Me
 
 - 💖 Anime stuffs, oftentimes going to anime convention (When I have money, and that's why I'm looking for a job rn xD)
 - 🌱 I'm currently learning Digital Art (Still learning anatomy and perspective .\_.)
-- 🔭 I played a lot of games when I got stressed (Honkai Star Rail, Honkai Impact, Arena Breakout, and sometimes Mobile Legends)
+- 🔭 I played a lot of games (Honkai Star Rail, Wuthering Waves, Arena Breakout, and other mobile games [my laptop sucks])
 - Looking for a job (However if I can I want to work on anime-related company, because it's better to work on something that you like, right?)
 
 ### Reach me out on Social Media:
