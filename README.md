@@ -26,7 +26,7 @@
 - Kominfo Fresh Graduate Academy, UIUX Designer Trainee (Mar 2023 - Apr 2023)
 - GoTo Impact, Fullstack Developer Apprenticeship (June 2023 - Dec 2023)
 
-#### What I've learned (Some of these are like years ago lol)
+#### What I've learned (Most already covered in dust lol)
 
 ![Irfan's GitHub stats](https://img.shields.io/badge/Adobe%20After%20Effects-393665?logo=Adobe%20After%20Effects&logoColor=CF96FD)
 ![Irfan's GitHub stats](https://img.shields.io/badge/Adobe%20Illustrator-000?logo=adobe%20illustrator&logoColor=white)
@@ -55,7 +55,7 @@
 - 💖 Anime stuffs, oftentimes going to anime convention (When I have money, and that's why I'm looking for a job rn xD)
 - 🌱 I'm currently learning Digital Art (Still learning anatomy and perspective .\_.)
 - 🔭 I played a lot of games (Honkai Star Rail, Wuthering Waves, Arena Breakout, and other mobile games [my laptop sucks])
-- Looking for a job (However if I can I want to work on anime-related company, because it's better to work on something that you like, right?)
+- Looking for a job (Especially anime-related)
 
 ### Reach me out on Social Media:
 
@@ -72,9 +72,8 @@
 
 #### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
-### **_Sometimes I wish to go back to the past and focused on art lesson to be an anime illustrator, instead of playing with IT shit(s) and running from bullies..._**
-
-> If you read this, I wish you can follow your passion. To be be able to follow your own passion, to be yourself, don't think too much about people opinion, and to be proud of your works and your self is just wonderful way of living. - From someone who's regret his life, because he always bow down to "others".
+> Your life is yours.
+> If only I could go back far to the past and remake my life...
 
 ### Thanks for your visit, wish you always happy, and have a great day!🌟
 
