@@ -2,6 +2,8 @@
 **_And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become_**\
 **_Everything else, is secondary." — Steve Jobs_**
 
+> Complete Speech: https://www.youtube.com/watch?v=UF8uR6Z6KLc
+
 ## Hi, Welcome to my profile and nice to meet you! 🌟
 
 <img align="center" alt="HSR Sparkle Phony Art" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/phonyforgithub.png" />
@@ -26,7 +28,7 @@
 - Kominfo Fresh Graduate Academy, UIUX Designer Trainee (Mar 2023 - Apr 2023)
 - GoTo Impact, Fullstack Developer Apprenticeship (June 2023 - Dec 2023)
 
-#### What I've learned (Most already covered in dust lol)
+#### What I've learned
 
 ![Irfan's GitHub stats](https://img.shields.io/badge/Adobe%20After%20Effects-393665?logo=Adobe%20After%20Effects&logoColor=CF96FD)
 ![Irfan's GitHub stats](https://img.shields.io/badge/Adobe%20Illustrator-000?logo=adobe%20illustrator&logoColor=white)
@@ -50,12 +52,13 @@
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Code_Igniter-black?style=flat-square&logo=codeigniter)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Unity_Game_Engine-black?style=flat-square&logo=unity)
 
+> Most covered in dust, but I can try
+
 ### About Me
 
-- 💖 Anime stuffs, oftentimes going to anime convention (When I have money, and that's why I'm looking for a job rn xD)
-- 🌱 I'm currently learning Digital Art (Still learning anatomy and perspective .\_.)
-- 🔭 I played a lot of games (Honkai Star Rail, Wuthering Waves, Arena Breakout, and other mobile games [my laptop sucks])
-- Looking for a job (Especially anime-related)
+- 💖 I like anime stuffs, including Anime, Manga, Game, Anicon, and much more
+- 🌱 I can code, I can draw, I can design UI/UX, and a little bit of data analytics
+- 🔭 Currently a NEET (Not in Education, Employment, or Training)
 
 ### Reach me out on Social Media:
 
@@ -69,11 +72,6 @@
 - Google Crowdsource Contributor
 
 ---
-
-#### My favorite speech by Steve Jobs: https://www.youtube.com/watch?v=UF8uR6Z6KLc
-
-> Your life is yours.
-> If only I could go back far to the past and remake my life...
 
 ### Thanks for your visit, wish you always happy, and have a great day!🌟
 
