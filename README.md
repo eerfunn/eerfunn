@@ -14,10 +14,10 @@
 ### Experiences
 
 - Binar Academy, Full Stack Web Developer Independent Study and Internship (Feb 2022 - Jul 2022)
-- Digital Talent Schlolarship, Google Data Analytics Professional Trainee (Aug 2022 - Nov 2022)
-- Baparekraf Digital Talent, Google IT Support Professional Trainee (Oct 2022 - Dec 2022)
-- General Electric, Data Analytics Virtual Intern (Dec 2022 - Jan 2023)
-- Kominfo Fresh Graduate Academy, UIUX Designer Trainee (Mar 2023 - Apr 2023)
+- Ministry of Communication and Digital Affairs of the Republic of Indonesia, Google Data Analytics Professional Trainee (Aug 2022 - Nov 2022)
+- Ministry of Tourism and Creative Economy of the Republic of Indonesia, Google IT Support Professional Trainee (Oct 2022 - Dec 2022)
+- General Electric, Data Analytics Virtual Internship (Dec 2022 - Jan 2023)
+- Ministry of Communication and Digital Affairs of the Republic of Indonesia, UIUX Designer Trainee (Mar 2023 - Apr 2023)
 - GoTo Impact, Fullstack Developer Apprenticeship (June 2023 - Dec 2023)
 
 #### What I've learned
