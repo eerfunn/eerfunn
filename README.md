@@ -23,7 +23,7 @@
 #### What I've learned
 
 ![Irfan's GitHub stats](https://img.shields.io/badge/Adobe%20After%20Effects-393665?logo=Adobe%20After%20Effects&logoColor=CF96FD)
-![Irfan's GitHub stats](https://img.shields.io/badge/Adobe%20Illustrator-000?logo=adobe%20illustrator&logoColor=white)
+![Irfan's GitHub stats](https://img.shields.io/badge/MedibangPaintPro-000?logo=adobe%20illustrator&logoColor=white)
 ![Irfan's GitHub stats](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
