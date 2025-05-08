@@ -1,10 +1,4 @@
-**_"Your work is gonna fill a large part of your life, ...and the only way to do great work is to love what you do._**\
-**_And most important, have the courage to follow your heart and intuition, they somehow already know, what you truly want to become_**\
-**_Everything else, is secondary." — Steve Jobs_**
-
-> Complete Speech: https://www.youtube.com/watch?v=UF8uR6Z6KLc
-
-## Hi, Welcome to my profile and nice to meet you! 🌟
+## Welcome to my profile and nice to meet you! 🌟
 
 <img align="center" alt="HSR Sparkle Phony Art" src="https://raw.githubusercontent.com/eerfunn/eerfunn/main/assets/phonyforgithub.png" />
 - Art By Me
@@ -14,12 +8,10 @@
 
 [![An image of @eerfunn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eerfunn)](https://holopin.io/@eerfunn)
 
-### My Profile Stats
-
 <a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eerfunn&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700" alt="Irfan's GitHub stats"/></a>
 <a href="github.com/eerfunn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eerfunn&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&icon_color=FFD700&border_color=FFD700" alt="Irfan's language stats"/></a>
 
-### Experience & Trainings
+### Experiences
 
 - Binar Academy, Full Stack Web Developer Independent Study and Internship (Feb 2022 - Jul 2022)
 - Digital Talent Schlolarship, Google Data Analytics Professional Trainee (Aug 2022 - Nov 2022)
@@ -52,27 +44,4 @@
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Code_Igniter-black?style=flat-square&logo=codeigniter)
 ![Irfan's GitHub stats](https://img.shields.io/badge/-Unity_Game_Engine-black?style=flat-square&logo=unity)
 
-> Most covered in dust, but I can try
-
-### About Me
-
-- 💖 I like anime stuffs, including Anime, Manga, Game, Anicon, and much more
-- 🌱 I can code, I can draw, I can design UI/UX, and a little bit of data analytics
-- 🔭 Currently a NEET (Not in Education, Employment, or Training)
-
-### Reach me out on Social Media:
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Linked_In-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfannadabs/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-cyan?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/irfannadabs)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-fuchsia?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/irfannbsin/)
-
-### Other
-
-- Completed JuaraGCP Season 7, JuaraGCP Season 8 (Google Cloud Learn to Earn), Juara Android Season 2 (Jetpack Compose Learn to Earn), and Hacktoberfest 2022
-- Google Crowdsource Contributor
-
----
-
-### Thanks for your visit, wish you always happy, and have a great day!🌟
-
----
+### Thank you for visiting, have a great day!🌟
